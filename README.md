@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[read, watch, comsume mkdm thanks](https://www.youtube.com/watch?v=maKok2RItxM)
 <!--
 **SpiralNuggets/SpiralNuggets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

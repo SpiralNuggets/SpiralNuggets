@@ -17,3 +17,23 @@ Here are some ideas to get you started:
 # Folks on the net calls me Spiral
 
 I don't publicize my codes that much, but that time will eventually come, you know
+
+[I'm also working on a research on crossdressing trend, but that's unrelated to any of these](/https://commons.wikimedia.org/wiki/Category:Cosplay_of_K-On!)
+
+### I can code in:
+- C
+- Java
+- Python
+- JS
+- Scratch
+
+### For non-computing parts, I can do
+- Adobe Photoshop
+- GIMP
+- Adobe Premiere
+
+### For non-computer related, I have
+- Basic Firearms Training
+- 3 years JROTC Training
+- Driving license
+- Ability to play Through The Fire And Flames on Guitar Hero (actually was)

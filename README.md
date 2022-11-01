@@ -1,4 +1,4 @@
-[Apparently there are services out there that combines all your socmed links]([https://www.youtube.com/watch?v=maKok2RItxM](https://linktr.ee/spiralnuggets))
+[Apparently there are services out there that combines all your socmed links](https://linktr.ee/spiralnuggets)
 <!--
 **SpiralNuggets/SpiralNuggets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

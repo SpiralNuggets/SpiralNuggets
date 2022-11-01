@@ -25,10 +25,11 @@ I also hate modern programming practices.
 -----------
 
 ### I can code in:
-- C
+- C (and its ++ brethren)
 - Java
 - Python
 - JS
+- Rust (The programming language)
 - Scratch
 - Arduino
 - Raspi
@@ -44,6 +45,7 @@ I also hate modern programming practices.
 - 3 years JROTC Training
 - Driving license
 - Ability to play Through The Fire And Flames on Guitar Hero (actually was)
+- Experience in Rust (Call of Duty map)
 
 -------------
 

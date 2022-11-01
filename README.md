@@ -26,6 +26,9 @@ I don't publicize my codes that much, but that time will eventually come, you kn
 - Python
 - JS
 - Scratch
+- Arduino
+- Raspi
+- Shellscript
 
 ### For non-computing parts, I can do
 - Adobe Photoshop

@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Folks on the net calls me Spiral
+# Folks on the net calls me Spiral
 
 I don't publicize my codes that much, but that time will eventually come, you know

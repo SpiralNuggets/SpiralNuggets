@@ -1,19 +1,18 @@
 [Apparently there are services out there that combines all your socmed links](https://linktr.ee/spiralnuggets)
-<!--
+```
 **SpiralNuggets/SpiralNuggets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- 🔭 I’m currently working on turning my whole life around
+- 🌱 I’m currently learning C#
+- 👯 I’m looking to collaborate on an armed uprising against the current goverment
+- 🤔 I’m looking for help with any game development project
+- 💬 Ask me about dragon maid
+- 📫 How to reach me: I have a Linktree
+- 😄 Pronouns: any
+- ⚡ Fun fact: One of the above is a lie
+```
 # Folks on the net calls me Spiral
 
 I don't publicize my codes that much, but that time will eventually come, you know.

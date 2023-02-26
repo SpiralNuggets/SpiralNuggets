@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 I don't publicize my codes that much, but that time will eventually come, you know.
 
-I also hate modern programming practices.
-
-[I'm also working on a research on crossdressing trend, but that's unrelated to any of these](https://commons.wikimedia.org/wiki/Category:Cosplay_of_K-On!)
+I also hate modern programming practices that only focuses on mobile devices and nothing else. Like get a PC, people.
 
 -----------
 

@@ -19,6 +19,31 @@ I don't publicize my codes that much, but that time will eventually come, you kn
 
 I also hate modern programming practices that only focuses on mobile devices and nothing else. Like get a PC, people.
 
+
+### What is this?
+
+This is my GitHub profile, duh. I'm not that active here, but I do have some projects that I'm working on.
+
+### Why is this?
+
+Apparently some recruiters are looking for GitHub profiles, so I made one. I'm not that active here, but I do have some projects that I'm working on on other platforms.
+
+### Who is this?
+
+Please either do OSINT or do some Sherlock style detective work.
+
+### When is this?
+
+What?
+
+### Where is this?
+
+On GitHub, duh.
+
+### How is this?
+
+I want to be Tsubasa Hanekawa so much that I forgot what my pronouns are.
+
 -----------
 
 ### I can code in:

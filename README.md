@@ -68,7 +68,7 @@ I want to be Tsubasa Hanekawa so much that I forgot what my pronouns are.
 - Driving license
 - Ability to play Through The Fire And Flames on Guitar Hero (actually was)
 - Experience in Rust (Call of Duty map)
-
+- I can also use the BGM-71 TOW
 -------------
 
 *"I don't know everything, I just know what I know."*
